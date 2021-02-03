@@ -1,3 +1,3 @@
 # Project-Algorithms
 
-Learning and applying algorithms from the list here: https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view
+Learning and applying algorithms from the list: https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view
